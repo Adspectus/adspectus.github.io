@@ -10,3 +10,6 @@ Introduced in _The Crab with the Golden Claws_ as a whisky-addicted master of a 
 * Likes rum and whisky, especially _Loch Lomond_
 * Swears a lot, mostly in irrelevant insults not considered as real swear words
 
+## Most famous expression
+
+> Billions of bilious blue blistering barnacles!
