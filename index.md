@@ -13,3 +13,5 @@ Introduced in _The Crab with the Golden Claws_ as a whisky-addicted master of a 
 ## Most famous expression
 
 > Billions of bilious blue blistering barnacles!
+
+<img src="http://en.tintin.com/images/tintin/persos/images/haddock.png"/>
